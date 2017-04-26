@@ -2,7 +2,7 @@
 
 // ----------------- MODEL -----------------
 
-var GAME_DURATION = 10;
+var GAME_DURATION = 60;
 
 // all the stuff we need to keep track of
 var model = {
